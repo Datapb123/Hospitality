@@ -25,10 +25,15 @@ Understand revenue trends, revenue fluctuations, cancellations, and performance 
 
 ## Key Skills
 *Data Analytics & Business Intelligence.
+
 *Data Visualization & Reporting.
+
 *Revenue & Pricing Optimization
+
 *Revenue management tools and models (e.g., RevPAR, DSRN, DURN, ADR, Occupancy Rate Analysis).
+
 *Problem Solving & Analytical Thinking.
+
 *Adaptability & Learning.
 *Client-Centric Approach.
 *Attention to detail.
