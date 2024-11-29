@@ -24,7 +24,9 @@ Understand revenue trends, revenue fluctuations, cancellations, and performance 
 *Booking Performance Analysis: https://github.com/Datapb123/Hospitality/blob/main/Booking.PNG
 
 -Analyze and compare the Booking performance in different cities like Delhi, Mumbai, Hyderabad, and Bangalore.
+
 -Detailed analysis of business and luxury hotel categories, including revenue generation by week and by hotel.
+
 -Assess customer ratings by city, hotel, and class to identify areas for improvement.
 
 
