@@ -8,6 +8,7 @@ Presentation- https://github.com/Datapb123/Hospitality/blob/main/Hospitality.pdf
 Welcome to the AtliQ Grands Business & Data Intelligence Dashboard! This project aims to provide key performance insights and data-driven strategies to help AtliQ Grands regain its market share and increase revenue in the luxury and business hotel categories. With a data analytics approach, we plan to improve decision-making, optimize pricing strategies, and enhance customer satisfaction, ultimately making AtliQ Grands more competitive in the hospitality market.
 
 #Project Overview
+
 AtliQ Grands, a chain of five-star hotels across India, is facing challenges in maintaining market share and revenue due to ineffective decision-making and increased competition. This project focuses on implementing Business and Data Intelligence to provide actionable insights, improve operational efficiency, and enhance revenue management. Through this dashboard, decision-makers at AtliQ Grands will have access to real-time performance metrics, which will help in identifying growth opportunities, refining pricing strategies, and managing revenue more effectively.
 
 #Features:
