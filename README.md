@@ -35,5 +35,7 @@ Understand revenue trends, revenue fluctuations, cancellations, and performance 
 *Problem Solving & Analytical Thinking.
 
 *Adaptability & Learning.
+
 *Client-Centric Approach.
+
 *Attention to detail.
